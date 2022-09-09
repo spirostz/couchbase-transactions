@@ -5,6 +5,7 @@ Test to demonstrate `3` problems with couchbase Transactions,
 
 See: CouchbaseTransactionsTest for details.
 
+https://github.com/spirostz/couchbase-transactions/blob/main/src/test/java/org/spiros/CouchbaseTransactionsTest.java
 # How to run
 
 ## Prerequisites:
